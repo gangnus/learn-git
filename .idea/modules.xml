@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/moduleMethodsWithExtensions/MethodsWithExtensions.gang.org.iml" filepath="$PROJECT_DIR$/moduleMethodsWithExtensions/MethodsWithExtensions.gang.org.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java9firstTry.iml" filepath="$PROJECT_DIR$/java9firstTry.iml" />
+    </modules>
+  </component>
+</project>
