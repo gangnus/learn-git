@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/daughter.iml" filepath="$PROJECT_DIR$/.idea/modules/daughter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled/.idea/modules/daughter.iml" filepath="$PROJECT_DIR$/../untitled/.idea/modules/daughter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/daughter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/daughter_main.iml" group="daughter" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/daughter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/daughter_test.iml" group="daughter" />
-      <module fileurl="file://$PROJECT_DIR$/java9firstTry.iml" filepath="$PROJECT_DIR$/java9firstTry.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mother.iml" filepath="$PROJECT_DIR$/.idea/modules/mother.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled/.idea/modules/mother.iml" filepath="$PROJECT_DIR$/../untitled/.idea/modules/mother.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mother_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mother_main.iml" group="mother" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mother_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mother_test.iml" group="mother" />
     </modules>
